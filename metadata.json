@@ -1,0 +1,6 @@
+{
+  "name": "AI Trading Bot Dashboard",
+  "description": "A sophisticated dashboard that simulates AI-driven stock trading decisions. It features specialized AI bots for buying, selling, news analysis, and company-specific intelligence to provide comprehensive trading insights.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
